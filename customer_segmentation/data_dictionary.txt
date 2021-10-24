@@ -1,0 +1,66 @@
+Attributes
+
+People/ Pessoas
+
+ID: Customer's unique identifier/ 
+    Identificador único do cliente
+Year_Birth: Customer's birth year/ 
+            Ano de nascimento do cliente
+Education: Customer's education level/ 
+           Nivel de educação do cliente
+Marital_Status: Customer's marital status/ 
+        Estado civil do cliente
+Income: Customer's yearly household income/ 
+        Renda familiar anual do cliente
+Kidhome: Number of children in customer's household/ 
+         Número de crianças na casa do cliente
+Teenhome: Number of teenagers in customer's household/ Número de adolescentes na casa do cliente
+Dt_Customer: Date of customer's enrollment with the company/ 
+             Data de inscrição do cliente na empresa
+Recency: Number of days since customer's last purchase/ 
+         Número de dias desde a última compra do cliente
+Complain: 1 if customer complained in the last 2 years, 0 otherwise/  
+          1 se o cliente reclamar nos ultimos 2 anos, 0 caso contrario 
+
+Products/ Produtos
+
+MntWines: Amount spent on wine in last 2 years/ 
+          Quantia gasta em vinho nos ultimos 2 anos
+MntFruits: Amount spent on fruits in last 2 years/ 
+           Quantia gasta com frutas nos ultimos 2 anos 
+MntMeatProducts: Amount spent on meat in last 2 years/ 
+                 Quantia gasta com carne nos ultimos 2 anos
+MntFishProducts: Amount spent on fish in last 2 years/ 
+                 Quantia gasta com peixes nos ultimos 2 anos
+MntSweetProducts: Amount spent on sweets in last 2 years/ 
+                  Quantia gasta com doces nos ultimos 2 anos
+MntGoldProds: Amount spent on gold in last 2 years/ 
+              Quantia gasta com ouro nos ultimos 2 anos
+
+Promotion/ Promoção
+
+NumDealsPurchases: Number of purchases made with a discount/ Número de compras feitas com desconto
+AcceptedCmp1: 1 if customer accepted the offer in the 1st campaign, 0 otherwise/ 
+              1 se o cliente aceitou  oferta na 1ª campanha, 0 caso contrario
+AcceptedCmp2: 1 if customer accepted the offer in the 2nd campaign, 0 otherwise/
+              1 se o cliente aceitou  oferta na 2ª campanha, 0 caso contrario
+AcceptedCmp3: 1 if customer accepted the offer in the 3rd campaign, 0 otherwise/
+              1 se o cliente aceitou  oferta na 3ª campanha, 0 caso contrario
+AcceptedCmp4: 1 if customer accepted the offer in the 4th campaign, 0 otherwise/
+              1 se o cliente aceitou  oferta na 4ª campanha, 0 caso contrario 
+AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise
+              1 se o cliente aceitou  oferta na 5ª campanha, 0 caso contrario
+Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
+          1 se o cliente aceitou  oferta na última campanha, 0 caso contrario
+
+Place/ Lugar
+
+NumWebPurchases: Number of purchases made through the company’s web site/ 
+                 Número de compras feitas através do site de empresa
+NumCatalogPurchases: Number of purchases made using a catalogue/
+                     Número de compras feitas usando o catálogo
+NumStorePurchases: Number of purchases made directly in stores/
+                   Número de compras feitas diretamente nas lojas
+NumWebVisitsMonth: Number of visits to company’s web site in the last month/
+                   Número de visitas ao site da empresa no último mês
+                 
