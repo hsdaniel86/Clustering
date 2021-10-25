@@ -14,7 +14,8 @@ Income: Customer's yearly household income/
         Renda familiar anual do cliente
 Kidhome: Number of children in customer's household/ 
          Número de crianças na casa do cliente
-Teenhome: Number of teenagers in customer's household/ Número de adolescentes na casa do cliente
+Teenhome: Number of teenagers in customer's household/ 
+          Número de adolescentes na casa do cliente
 Dt_Customer: Date of customer's enrollment with the company/ 
              Data de inscrição do cliente na empresa
 Recency: Number of days since customer's last purchase/ 
@@ -39,7 +40,8 @@ MntGoldProds: Amount spent on gold in last 2 years/
 
 Promotion/ Promoção
 
-NumDealsPurchases: Number of purchases made with a discount/ Número de compras feitas com desconto
+NumDealsPurchases: Number of purchases made with a discount/ 
+                   Número de compras feitas com desconto
 AcceptedCmp1: 1 if customer accepted the offer in the 1st campaign, 0 otherwise/ 
               1 se o cliente aceitou  oferta na 1ª campanha, 0 caso contrario
 AcceptedCmp2: 1 if customer accepted the offer in the 2nd campaign, 0 otherwise/
